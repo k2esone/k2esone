@@ -4,6 +4,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=k2esone alt=k2esone /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=k2esone)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2esone&layout=compact)](https://github.com/k2esone/github-readme-stats)
 
